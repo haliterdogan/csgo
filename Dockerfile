@@ -1,6 +1,6 @@
 FROM ubuntu:bionic
 
-LABEL maintainer="occ@occ.me"
+LABEL maintainer="haliterdogan@gmail.com"
 
 # Install tooling
 RUN apt-get update && \
